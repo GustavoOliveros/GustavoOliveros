@@ -7,6 +7,7 @@
 - Recién egresado de Técnico Universitario en Desarrollo Web
 - Basado en Neuquén, Argentina
 - Entusiasmado por embarcame en mi primer empleo en el área de desarrollo de software y afines.
+- Inglés avanzado (B2 First - Score 187).
   
 <h2> /skills </h2>
   
